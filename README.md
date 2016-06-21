@@ -6,3 +6,5 @@ Ruby 処理系で `twitter_icon_dl.rb` を実行すると、`twitter_icon_dl.rb`
 `twitter_icon_dl.rb` を実行した際にダウンロードされていない画像のみをダウンロードするようになっています。
 
 配布が開始されてからしばらくは、サーバが落ちていました。申し上げるまでもありませんが、くれぐれも先方への攻撃とならないようにお願いします。
+
+解説を書きました http://material.utmsks.net/home/ruby/sansyasanyou
